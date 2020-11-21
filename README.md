@@ -23,6 +23,8 @@ My overall observations:
 - Song length is interesting: songs popular on Tik Tok seem to be noticeably shorter than the charts. This could be due to the fast-viral-and-short video type content that is the core of Tik Tok. The types of songs that tend to be longer may not have the viral qualities that are often needed to blow up on the app.
 - For the year 2018, we see much more variance between distributions, particularly for energy, loudness, valence, and length. Songs on Tik Tok have a greater range in energy, greater range in loudness, slightly higher valence and slightly shorter length. The types of sounds popular on Tik Tok are thus less tightly correlated with the top charts.
 
+![2020 Distribution Graphs](https://github.com/kickflipped/tiktok-analysis/blob/main/Figures/2020.png)
+
 
 
 
